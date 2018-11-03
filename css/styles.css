@@ -1,0 +1,39 @@
+.navbar, 
+.services_card {
+  color: white;
+  background-color: #996c4a;"
+}
+
+.adopt_card,
+.adopt_container,
+.jumbotron {
+  background-color: lightblue;"
+}
+
+.about_card,
+.subscribe_card {
+  background-color: #eee;"
+}
+
+.header-container {
+  padding: 5rem 2rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-image: url("../img/abstract-antique-bkg-FADE.jpg");
+}
+
+.address {
+  color: white;
+  margin-right: 3rem;
+}
+
+.map {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+  height: auto;
+}
+
+

@@ -13,4 +13,5 @@ The purpose of this website is to provide information about a fictional veterina
 - An Adoption section where animals up for adoption from nearby shelters are featured.
 
 - A CONTACT link that opens a form to allow users to send messages to the clinic.
--
+
+- Added a JavaScript function to randomly pick a name from an array that is triggered by a link at the bottom of the Adoption section.

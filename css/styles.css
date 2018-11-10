@@ -1,18 +1,18 @@
-.navbar, 
+.navbar,
 .services_card {
   color: white;
-  background-color: #996c4a;"
+  background-color: #996c4a;
 }
 
 .adopt_card,
 .adopt_container,
 .jumbotron {
-  background-color: lightblue;"
+  background-color: lightblue;
 }
 
 .about_card,
 .subscribe_card {
-  background-color: #eee;"
+  background-color: #eee;
 }
 
 .header-container {
@@ -35,4 +35,3 @@
   max-width: 100%;
   height: auto;
 }
-
